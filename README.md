@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi, I'm Kauan Manzato do Nascimento, a software developer at Radix Engenharia working on web applications to further digitalize client's systems and processes.<br><br>In the mean time, I create cybersecurity content for my Medium and Twitter pages, and study & practice ethical hacking + malware development/analysis.</p>
+<p align="left">Hi, I'm Kauan Manzato do Nascimento, a software engineer at Radix Engenharia working on web applications to further digitalize client's systems and processes.<br><br>In the mean time, I create cybersecurity content for my Medium and Twitter pages, and study & practice ethical hacking + malware development/analysis.</p>
 
 ###
 
