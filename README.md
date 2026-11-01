@@ -1,4 +1,4 @@
-<h2 align="center">Kauan | @manzatosec</h2>
+<h2 align="center">Kauan | @manzatodev</h2>
 
 <div align="center">
   <img height="200" src="https://sportshub.cbsistatic.com/i/2022/05/14/032cca93-5d5a-4efd-9161-ad79fef239e1/spy-x-family-loid-cosplay.png"  />
@@ -10,11 +10,16 @@
 
 ###
 
-<p align="left">Hi, I'm Kauan Manzato do Nascimento, a software engineer at Radix Engenharia working on web applications to further digitalize client's systems and processes.<br><br>In the mean time, I create cybersecurity content for my Medium and Twitter pages, and study & practice ethical hacking + malware development/analysis.</p>
+<p align="left">Hi, I'm Kauan Manzato do Nascimento, a software engineer at Órigo Energia, reshaping the solar energy market in Brazil.
 
 ###
 
-<p align="left">💻 Creating bugs since 2020<br>📚 BSc. Computer Science at Federal University of ABC, Brazil<br>✨ Currently learning Angular<br>🔒 Cybersecurity student and CTF player</p>
+<p align="left">💻 Creating solutions since 2020
+  <br>
+  📚 BSc. Computer Science, BSc. Science & Technology at Federal University of ABC, Brazil
+  <br>
+  ✨ Currently working on personal projects<br>
+  🔒 Studying and reading is my passion</p>
 
 <br>
 
